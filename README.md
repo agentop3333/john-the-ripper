@@ -2,12 +2,6 @@
 Password Cracking through john the ripper
 # Password Security & Authentication Analysis
 
-## Overview
-This project is part of a Cyber Security Internship task focused on understanding how passwords are stored, attacked, and protected.  
-The objective was to analyze password hashing mechanisms, perform controlled cracking of weak passwords, and study authentication defenses such as MFA.
-
----
-
 ## Objectives
 - Understand how passwords are stored using hashing
 - Identify common hash types (MD5, SHA1)
@@ -66,5 +60,4 @@ All activities were performed in a controlled environment for educational purpos
 
 ---
 
-## Author
-Bishal Das
+
